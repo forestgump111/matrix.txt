@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>White cat</title>
+<head/>
+<body>
+
+<h1>We're looing for an HTML and CSS developer</h1>
+<image src="http://howtocodeinhtml.com/img/chapter2/job-post-clean.png">
+<p>For our client,The Cat Factory,we need a skilled web developer
+in HTML and CSS.We offer a competetive salary,a bag of ct food
+and toys.</p>
+<p>Don't wait, apply now! Our crazy team is waiting for you 
+meow!
+</body>
+<style>
+roof {
+  background-color: green;
+}
+
+doors {
+  background-color: yellow;
+  width: 100px;
+  height: 300px;
+}
+
+windows {
+  border: 5px solid brown;
+  width: 150px;
+</style>
+}
+</html>

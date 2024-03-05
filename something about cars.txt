@@ -1,0 +1,58 @@
+
+<!DOCTYPE hmtl>
+<html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+</head>
+<style> {background-color=#333333;
+  {text-color=white);
+  {text-align=center};
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="#https://www.edmunds.com/bmw/x5/"</a>BMW</li>
+<li><a href="#Ford Mustang"</a>Ford</li>
+<li><a href="#https://en.wikipedia.org/wiki/Ford_Mustang#/media/File:2018_Ford_Mustang_GT_5.0.jpg"</a>Bugatti</li>
+</ul>
+</nav>
+</header>
+<form method="POST" action="form.aspx">
+<p> 
+<label>Customer name: <input type="text" id="customerName" name="customerName"
+maxlength="10">
+</p><fieldset>
+<legend>Choose car</legend>
+<p><label> <input type=VehicleName" name="size" value="">BMW
+      </label></p>
+      <p><label> <input type=VehicleName" name="size" value="Ford">
+      </label></p>
+<p><label> <input type=VehicleName" name="size" value="Bugatti">
+      </label></p>
+</fieldset>
+
+<div class="BMW">
+  <h1 https:"//www.edmunds.com/bmw/x5/"></h1>
+  img src=""
+  <p>The BMW X5 is a mid-size luxury crossover SUV produced by BMW. The X5 made its debut in 1999 as the E53 model. It was BMW's first SUV..</p>
+</div>
+
+<div class="Ford">
+  <h1 Img src"#Ford Mustang"></h1>
+  <p>The Ford Mustang is a series of American automobiles manufactured by Ford. In continuous production since 1964, the Mustang is currently the longest-produced
+ Ford car nameplate. Currently in its seventh generation, it is the fifth-best selling Ford car nameplate. The namesake of the "pony car" automobile segment, the Mustang 
+was developed as a highly styled line of sporty coupes and convertibles derived from existing model lines, initially distinguished by "long hood, short deck" proportions.[3]</p>
+</div></p>
+</div>
+
+<div class="Bugatti">
+  <h1 img src="https://en.wikipedia.org/wiki/Ford_Mustang#/media/File:2018_Ford_Mustang_GT_5.0.jpg"></h1>
+  <p>All Chiron models are motivated by an 8.0-liter 16-cylinder powerplant. This beast of an engine employs four turbochargers to generate a mighty 1500 horsepower and
+ 1180 lb-ft of torque. Bugatti claims that the Chiron makes the dash from zero to 60 mph in a mere 2.3 seconds, and it has a top speed of 261 mph</p>
+</div>
+</nav>
+/style>
+
+</body>
+</html>

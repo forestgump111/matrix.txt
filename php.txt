@@ -1,0 +1,25 @@
+<!DOCtype html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <?php
+    $characterName = "Tom";
+    $characterAge = "37";
+    echo "there was a guy name $characterName <br>"
+    echo "he didn't like he was $characterAge years old<br>"
+    $phrase = "To be or not to be";
+    $dvd = 37.7;
+    isMale = true;
+    echo "$phrase
+    $phrase = "Giraffe Academy"
+    echo strtoupper
+    echo strlen 
+    
+</body>
+</html>
